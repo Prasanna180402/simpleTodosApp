@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: 20px;
+}
+.title {
+  color: #000000;
+  font-size: 18px;
+  font-family: 'roboto';
+}
+.delete-btn {
+  border: 2px solid #ff0b37;
+  color: #ff0b37;
+  font-size: 18px;
+  padding: 3px 15px;
+  background-color: transparent;
+  border-radius: 10px;
+}
